@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #ifndef __HAYAI_JSONOUTPUTTER
 #define __HAYAI_JSONOUTPUTTER
 #include <iomanip>

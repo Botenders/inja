@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #ifndef __HAYAI_TESTDESCRIPTOR
 #define __HAYAI_TESTDESCRIPTOR
 #include <cstring>

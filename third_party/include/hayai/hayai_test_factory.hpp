@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #ifndef __HAYAI_TESTFACTORY
 #define __HAYAI_TESTFACTORY
 #include "hayai_test.hpp"

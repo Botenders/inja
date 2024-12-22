@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #!/usr/bin/env python
 
 # amalgamate.py - Amalgamate C source and header files.

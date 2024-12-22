@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 3.10)
 
 # See https://cmake.org/cmake/help/latest/policy/CMP0077.html
 # This allows for setting option variables externally, when this project

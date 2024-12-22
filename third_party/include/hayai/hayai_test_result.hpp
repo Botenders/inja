@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #ifndef __HAYAI_TESTRESULT
 #define __HAYAI_TESTRESULT
 #include <vector>

@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #ifndef __HAYAI_MAIN
 #define __HAYAI_MAIN
 #include <algorithm>

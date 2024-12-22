@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 from jinja2 import Environment, PackageLoader, select_autoescape
 
 

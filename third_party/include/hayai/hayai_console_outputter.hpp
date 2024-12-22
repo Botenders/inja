@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #ifndef __HAYAI_CONSOLEOUTPUTTER
 #define __HAYAI_CONSOLEOUTPUTTER
 #include "hayai_outputter.hpp"

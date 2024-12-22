@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #ifndef __HAYAI_BENCHMARKER
 #define __HAYAI_BENCHMARKER
 #include <algorithm>

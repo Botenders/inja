@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #ifndef __HAYAI_OUTPUTTER
 #define __HAYAI_OUTPUTTER
 #include <iostream>

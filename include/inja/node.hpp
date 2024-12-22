@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #ifndef INCLUDE_INJA_NODE_HPP_
 #define INCLUDE_INJA_NODE_HPP_
 

@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #ifndef INCLUDE_INJA_RENDERER_HPP_
 #define INCLUDE_INJA_RENDERER_HPP_
 

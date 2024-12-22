@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 // Copyright (c) 2020 Pantor. All rights reserved.
 
 #include <doctest/doctest.h>
